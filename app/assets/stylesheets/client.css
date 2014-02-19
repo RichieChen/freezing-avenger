@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.message {
+	margin:0 auto;
+	width:600px;
+	height:100px;
+	font-size: 24px
+}
+.button {
+	margin: 0px 50px 0px 50px;
+}
